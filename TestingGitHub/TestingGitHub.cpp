@@ -5,13 +5,20 @@
 
 int main()
 {
-    std::cout << "Hello GitHub! one more modification\n";
-    std::cout << "Hello GitHub! one more modification\n";
-    std::cout << "Hello GitHub! one more modification\n";
-    std::cout << "Hello GitHub! one more modification\n";
-    std::cout << "Hello GitHub! one more modification\n";
-    std::cout << "Hello GitHub! one more modification\n";
-    std::cout << "Hello GitHub! one more modification\n";
+    
+}
+
+void MyFirstFunction()
+{
+
+}
+void MySecondFunction()
+{
+
+}
+void MyThirdunction()
+{
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
